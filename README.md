@@ -13,7 +13,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 # ALS/hybrid için:
 pip install -r requirements-als.txt
-
+```
 # MovieLens Recommender (TF-IDF + ALS + Hybrid)
 
 Bu proje, MovieLens veri seti ile:
