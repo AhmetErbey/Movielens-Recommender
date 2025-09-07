@@ -1,0 +1,10 @@
+# ---- Core (content-based + evaluation) ----
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.11.4
+scikit-learn==1.3.2
+
+# ---- Optional (yorumdan çıkararak ekleyebilirsin) ----
+# matplotlib==3.8.4   # yalnız görselleştirme/notebook için
+# jupyterlab==4.2.3   # notebook yerel çalıştıracaksan
+# tqdm==4.66.5        # progress bar (opsiyonel)

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Venv / IDE
+.venv/
+.venv311/
+.vscode/
+
+# Data (büyük dosyalar)
+data/
+ml-20m/
+ml-latest-small/
+*.zip
+*.tar
+*.parquet
+*.csv.gz
+
+# Jupyter
+.ipynb_checkpoints/
